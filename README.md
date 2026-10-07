@@ -9,7 +9,7 @@
 ![MITRE](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-darkred?style=for-the-badge)
 ![Blue Team](https://img.shields.io/badge/Team-Blue%20Team-blue?style=for-the-badge)
 
-**Enterprise-grade Security Operations Center (SOC) simulation environment for real-world threat detection, SIEM engineering, and blue team operations.**
+**Controlled SOC lab for practicing SIEM engineering, detection logic, and blue-team workflows through authorized simulations.**
 
 </div>
 
@@ -829,7 +829,7 @@ screenshots/
 
 ## 🏢 Enterprise Relevance
 
-This lab directly mirrors the security stack and workflows used in enterprise SOC environments:
+This lab uses components and workflows commonly found in SOC environments, adapted for controlled learning and validation:
 
 | Enterprise Capability | Lab Equivalent |
 |----------------------|----------------|
@@ -880,7 +880,7 @@ This lab directly mirrors the security stack and workflows used in enterprise SO
 
 > This section is designed for resume, portfolio, and interview use.
 
-**Built a production-grade SOC Monitoring & SIEM Threat Detection Lab** simulating enterprise security operations across 6 nodes, integrating Splunk SIEM, Suricata IDS, and Sysmon telemetry into a centralized detection pipeline.
+**Built a lab-focused SOC Monitoring & SIEM Threat Detection Lab** simulating enterprise security operations across 6 nodes, integrating Splunk SIEM, Suricata IDS, and Sysmon telemetry into a centralized detection pipeline.
 
 - Engineered **8 custom SPL detection rules** to identify SQL injection, brute force, PowerShell abuse, reverse shells, and reconnaissance activity
 - Achieved **100% detection coverage** across all 8 simulated attack scenarios
@@ -894,7 +894,7 @@ This lab directly mirrors the security stack and workflows used in enterprise SO
 
 ## 📌 Professional Conclusion
 
-This lab represents a **complete, operational SOC environment** — not a guided tutorial or a checkbox certification exercise. Every architectural decision, every detection rule, and every attack simulation was deliberately engineered to mirror what blue team professionals encounter in production enterprise environments.
+This project is a **controlled SOC lab** used to practice detection engineering, telemetry correlation, and investigation workflows. It is not a production SOC deployment, and its results are limited to the documented lab scenarios.
 
 The skills demonstrated here — SIEM engineering, IDS tuning, detection rule development, endpoint telemetry analysis, and structured incident triage — are directly transferable to **SOC Analyst, Detection Engineer, and Security Operations Engineer** roles.
 
@@ -906,9 +906,9 @@ If you're a recruiter, hiring manager, or senior engineer reviewing this project
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | [Your LinkedIn Profile] |
-| GitHub | [Your GitHub Profile] |
-| Email | [Your Email] |
+| LinkedIn | [LinkedIn](https://www.linkedin.com/in/parakh-shinde) |
+| GitHub | [GitHub](https://github.com/Parakh-Shinde) |
+| Email | [parakhshinde15@gmail.com](mailto:parakhshinde15@gmail.com) |
 
 ---
 
